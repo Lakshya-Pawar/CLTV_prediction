@@ -1,6 +1,9 @@
-# Loan Approval Prediction
+# Customer Lifetime Value (CLTV) Prediction
 
-https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
+## Dataset
+online_retail_II.xlsx
+
+https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-Dataset
 
 ## Overview
 This project focuses on predicting Customer Lifetime Value (CLTV) to understand the long-term value of the customers. The goal is to understand customers based on their predicted value to optimize marketing strategies and resource allocation.
